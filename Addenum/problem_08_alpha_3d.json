@@ -1,0 +1,72 @@
+{
+  "string_result": {
+    "tb0_for_alpha": 2.8286549695985395,
+    "description": "Infinite string = 2D result"
+  },
+  "ring_results": [
+    {
+      "R_over_xi": 2,
+      "tb0": 3.4241285247447566,
+      "Gamma_vac": 0.05109101489415556,
+      "hierarchy": 383.09893127018734,
+      "log10_hierarchy": 2.583310940434898
+    },
+    {
+      "R_over_xi": 5,
+      "tb0": 4.587386735118193,
+      "Gamma_vac": 0.03203188784400658,
+      "hierarchy": 974.6191257851837,
+      "log10_hierarchy": 2.9888349296611865
+    },
+    {
+      "R_over_xi": 10,
+      "tb0": 5.5877199284021835,
+      "Gamma_vac": 0.02304250792765071,
+      "hierarchy": 1883.3910784073191,
+      "log10_hierarchy": 3.2749405088427133
+    },
+    {
+      "R_over_xi": 20,
+      "tb0": 4.838432710758692,
+      "Gamma_vac": 0.029336442081004263,
+      "hierarchy": 1161.9437839099467,
+      "log10_hierarchy": 3.0651851169284163
+    },
+    {
+      "R_over_xi": 50,
+      "tb0": 3.2584210620916645,
+      "Gamma_vac": 0.055144575466440464,
+      "hierarchy": 328.8473941213287,
+      "log10_hierarchy": 2.516994404738041
+    },
+    {
+      "R_over_xi": 100,
+      "tb0": 2.6080672734014247,
+      "Gamma_vac": 0.07681583345525562,
+      "hierarchy": 169.47221508666334,
+      "log10_hierarchy": 2.229098505939308
+    },
+    {
+      "R_over_xi": 200,
+      "tb0": 2.4387347515190263,
+      "Gamma_vac": 0.08456733501404246,
+      "hierarchy": 139.82818176002695,
+      "log10_hierarchy": 2.145594710389707
+    },
+    {
+      "R_over_xi": 500,
+      "tb0": 2.4214679553282945,
+      "Gamma_vac": 0.08542304461049431,
+      "hierarchy": 137.040806994372,
+      "log10_hierarchy": 2.1368499074017824
+    },
+    {
+      "R_over_xi": 1000,
+      "tb0": 2.421437936586685,
+      "Gamma_vac": 0.08542454357297756,
+      "hierarchy": 137.03599766867939,
+      "log10_hierarchy": 2.1368346659543147
+    }
+  ],
+  "honest_verdict": "Ring amplification is modest. Full hierarchy needs additional mechanism."
+}
